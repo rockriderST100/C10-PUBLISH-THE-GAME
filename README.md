@@ -1,1 +1,1 @@
-# C10-PUBLISH-THE-GAME
+# world-hardest-game
